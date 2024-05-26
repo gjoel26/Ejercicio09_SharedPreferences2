@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="User">User</string>
+    <string name="txt_registro">Registrar nuevo</string>
+    <string name="txt_title" />
+    <string name="txtTitle">Registry new user</string>
+    <string name="name">Name</string>
+    <string name="carrera">Carrera</string>
+    <string name="numberphone">Number phone</string>
+    <string name="save">Save</string>
+    <string name="Hello">Hello World!</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="txtguardar">Guardar</string>
+    <string name="txtusuario">Usuario</string>
+    <string name="txtcontraseña">Contraseña</string>
+    <string name="btneditar">Editar</string>
+    <string name="btncerrar">Cerrar</string>
+    <string name="txtregistrar">Registrar Nuevo Usuario</string>
+    <string name="txtusuario1">Usuario</string>
+    <string name="txtpassword">Contraseña</string>
+    <string name="txtpassword2">Contraseña</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtnumero">Numero De Telefono</string>
+    <string name="btnguardar">Guardar</string>
+    <string name="txtnombre1">Nombre</string>
+    <string name="txtnumero1">Numero De Telefono</string>
+    <string name="txtguardar1">Guardar</string>
+</resources>
